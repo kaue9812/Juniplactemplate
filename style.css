@@ -1,0 +1,18 @@
+body{
+    background: linear-gradient(120deg,#ffcc00,#ff6600);
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+h1{
+    margin: 10px 30px;
+    padding: 20px;
+    font-family:'sans-serif';
+    color: black;
+}
+header{
+    background: linear-gradient(90deg,#ff0066,#ff3300);
+    margin: 20px 10px;
+    padding: 20px;
+    font-size: 20px;
+}
